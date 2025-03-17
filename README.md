@@ -10,7 +10,7 @@
 <ul>
     <li>Python 3.x</li>
     <li><a href="https://chromedriver.chromium.org/" target="_blank">ChromeDriver</a> (matching your Chrome version)</li>
-    <li>Selenium library (<code>pip install selenium</code>)</li>
+    <li>Selenium library or just run (<code>pip install -r requirements.txt</code>)</li>
 </ul>
 
 <h2>🚀 Usage</h2>
